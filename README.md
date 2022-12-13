@@ -1,4 +1,4 @@
-# EEE342_Feedback_Control_Systems
+# Feedback_Control_Systems
 This repository contains laboratory assignments created and submitted for the course EE342 Feedback Control Systems, provided by Bilkent University Electrical & Electronics Engineering Department.
 
 ## Course Content
